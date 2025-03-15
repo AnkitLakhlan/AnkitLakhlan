@@ -15,13 +15,12 @@
 
 🏫 currently learning full stack and automation using python and selenium**
 
-🔎 I’m actively looking to collaborate on **Open source Project**
+🔎 I’m actively looking to collaborate on **Open source Project** and **startup opportunities**
 
 💻 Portfolio Project **[Ankit Lakhlan - Portfolio](https://www.ankitlakhlan.com)**
 
 💬 Ask me about **Frontend Development, MERN Full Stack Development, Automation, SaaS**
 
-💗 Love to talk about **Research, Innovation and Tech!**
 
 ## ✨
 
