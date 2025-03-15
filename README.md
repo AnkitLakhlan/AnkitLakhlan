@@ -66,6 +66,4 @@
 ## Resume
 [![You may download my resume from my portfolio](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://www.ankitlakhlan.com)
 
-## Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitlakhlan&" alt="ankitlakhlan" /></p>
