@@ -23,7 +23,7 @@
 
 ## ✨
 
-📫 How to reach me **ankitlakhlan03@gmail.com**
+📫 Let's connect through Mail :  **ankitlakhlan03@gmail.com**
 
 ## 🔰 Let's Connect:
 
