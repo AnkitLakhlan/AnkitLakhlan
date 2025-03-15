@@ -1,11 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Ankit+Lakhlan.+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hello 👋, I'm Ankit Lakhlan </h1>
 
-<h3 align='center' display='flex' alignItems='center' style={{display:'flex' , gap:'6px' }} >
-  A passionate developer <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" 
-   alt="India Flag" height='25' width='25' style={{ height:'20px' }} />
-</h3>
+<h3 align="center">A Dedicated Developer and Automation Enthusiast</h3>
 
 <br/>
 
