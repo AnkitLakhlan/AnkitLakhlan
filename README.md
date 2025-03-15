@@ -1,3 +1,7 @@
+<br/>
+<img src="./assets/github-banner.svg" alt="Developer Banner" />
+<br/>
+
 <h1 align="center">Hello 👋, I'm Ankit Lakhlan </h1>
 
 <h3 align="center">A Dedicated Developer and Automation Enthusiast</h3>
